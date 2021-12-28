@@ -19,7 +19,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html"}
   - {file: "README.md", title: "Publications"}
   - {file: "Publications.html", title: "Research Projects"}
-  - {file: "Teaching.html", title: "Teaching"}
+  - {title: "Teaching", file: "Teaching.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:v.reshadat@gmail.com"}
