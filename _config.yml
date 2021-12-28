@@ -17,9 +17,9 @@ minimal: false             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html", title: "Home2"}
-  - {file: "Publications.md", title: "Publications"}
-  - {file: "Publications.html", title: "Research Projects"}
-  - {title: "Teaching2", file: "README.md"}
+  - {file: "Publications.md", title: "Publications2"}
+  - {file: "Publications.html", title: "Research Projects2"}
+  - {file: "README.md", title: "Teaching2"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:v.reshadat@gmail.com"}
