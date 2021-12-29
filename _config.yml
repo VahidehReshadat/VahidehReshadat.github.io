@@ -20,15 +20,5 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "Projects.html", title: "Projects"}
   - {file: "Teaching.html", title: "Teaching"}
 
-external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:v.reshadat@gmail.com"}
-  - {title: Github, icon: github, url: "https://github.com/VahidehReshadat"}
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
-comments:
-#  disqus_shortname: ""    # see https://disqus.com/
-#  isso_domain: ""         # see https://posativ.org/isso/
-
-plugins:
- - jekyll-feed
 
