@@ -1,0 +1,104 @@
+---
+layout: default
+title: "Home"
+---
+
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title> Vahideh's Personal Website | VahidehReshadat.github.io</title>
+
+    <link rel="shortcut icon" href="assets1/images/fav.jpg">
+    <link rel="stylesheet" href="assets1/css/bootstrap.min.css">
+    <link rel="stylesheet" href="assets1/css/fontawsom-all.min.css">
+    <link rel="stylesheet" type="text/css" href="assets1/css/style.css" />
+</head>
+
+    <body>
+        <div class="container-fluid">
+           <div class="container profile-container">
+               <div class="row">
+                   <div id="menu-jk" class="col-md-4">
+                       <div class="pro-s-cover">
+                           <img src="assets1/images/profile.jpg" alt="">
+                           <h5>Vahideh Reshadat</h5>                
+                           <span>Postdoc Researcher</span>
+                           <br /> 
+                           <span>Information Systems Group</span>
+                           <br /> 
+                           <span>Industrial Engineering and Innovation Sciences Department</span>
+                           <br /> 
+                           <span>Eindhoven University of Technology (TU/e)</span>
+                           <br /> 
+                           <span><i class="fas fa-map-marker-alt"></i> Eindhoven, The Netherlands</span>                   
+                          
+
+                           <div class="con-cover">
+                            <h4>Contact</h4>
+                            <ul class="row no-margin">
+                                
+                                <li><a href="https://github.com/VahidehReshadat"><i class="fab fa-github"></i></a></li>
+                                <li><a href="https://twitter.com/Vahideh_R"><i class="fab fa-twitter"></i></a></li>
+                                <li><a href="https://scholar.google.com/citations?user=HsBMbZsAAAAJ&hl=en"><i class="fa fa-graduation-cap"></i></a></li>
+                                <li><a href="https://www.linkedin.com/in/vahideh-reshadat-4a280937/"><i class="fab fa-linkedin-in"></i></a></li>
+
+                            </ul>
+                            <div class="cd-ro row no-margin">
+                                <span>Email Address</span>
+                                <span>vahideh(dot)reshadat(at)gmail(dot)com</span>
+                            </div>
+                            </div>
+                           
+                       </div>
+          
+                   </div>
+                   <div class="col-md-8">
+                       <div class="data-box">
+                           <h2>About Me</h2>
+                           <p>I am a postdoc researcher in the Information Systems group at Eindhoven University of Technology (TU/e). I received my bachelor's, master's, and Ph.D. in computer engineering. My research interests consist of the following topics: <br /><br />
+                                     • Natural Language Processing<br />
+                                     • Business Data Analytics •
+                           </p>
+                               span { content: "\2022"; }
+                               <span>&#8226;</span>
+                           I am a postdoc researcher in the Information Systems group at Eindhoven University of Technology (TU/e). I received my bachelor's, master's, and Ph.D. in computer engineering. My research interests consist of the following topics: <br /><br />
+
+                               
+                               
+                           
+                           <ul>
+                             <li>- Natural Language Processing</li>
+                             <li>- Business Data Analytics</li>
+                             <li>Data Mining</li>
+                             <li>Bioinformatics</li>
+                           </ul>
+                           
+                               
+                               
+                               
+                               
+                               Natural Language Processing (Information Extraction, Ontology Learning, Information Retrieval, Text Analysis in Healthcare), Business Data Analytics, Data Mining and Bioinformatics.
+                           <div class="btn-ro row no-margin">
+                           </div>
+                       </div>
+
+                       </div>
+                       
+                       
+                   </div>
+               </div>
+           </div>
+        </div> 
+    </body>
+
+<script src="assets1/js/jquery-3.2.1.min.js"></script>
+<script src="assets1/js/popper.min.js"></script>
+<script src="assets1/js/bootstrap.min.js"></script> 
+<script type="application/javascript" src="assets1/js/jquery-scrolltofixed-min.js"></script>       
+<script src="assets1/js/script.js"></script>
+
+
+</html>
