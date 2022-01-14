@@ -5,6 +5,10 @@ lang: "en"
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
 
+url: "https://vahidehreshadat.github.io/" # the base hostname & protocol for your site
+plugins:
+  - jekyll-sitemap
+
 # Layout
 
 show_excerpts: true        # show article excerpts on the home page
