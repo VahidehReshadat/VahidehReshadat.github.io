@@ -1,4 +1,4 @@
-source "https://vahidehreshadat.github.io/"
+source "https://rubygems.org"
 
 gem 'jekyll-sitemap', "~> 4.2.0"
 
